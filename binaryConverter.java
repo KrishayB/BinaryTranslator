@@ -35,3 +35,5 @@ public class binaryConverter {
         System.out.println(String.format("Translation: \"%s\"", translation));
     }
 }
+
+// Credit to mkyong for help with the translation part
